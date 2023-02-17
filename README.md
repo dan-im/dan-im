@@ -4,7 +4,7 @@
   <span>
     :wave:안녕하세요:wave: <br>
     이제 막 도약중인 새싹 개발자입니다!:seedling: <br>
-    <b>백엔드</b>를 위주로 웹개발을 공부하고 :sparkling_heart:
+    <b>백엔드</b>를 위주로 웹개발을 공부하고 있습니다:sparkling_heart:
     <br><br>
     :email:<b>Email</b>:email:
     <br>
